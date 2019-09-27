@@ -20,7 +20,12 @@
                     "x": 89,
                     "y": 55,
                     "uniqueID": 394263,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "default value",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Readme",
@@ -37,7 +42,12 @@
                     "x": 89,
                     "y": 291,
                     "uniqueID": 385685,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "default value",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Rotate",
@@ -93,8 +103,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 930,
-                    "y": 251.5,
+                    "x": 1870,
+                    "y": 222,
                     "ioValues": []
                 }
             ],
@@ -290,6 +300,14 @@
                     "ioValues": [
                         {
                             "name": "2D shape 829766",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "2D shape 294487",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "2D shape 829766",
                             "ioValue": 10
                         },
                         {
@@ -306,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 930,
-                    "y": 410,
+                    "x": 1870,
+                    "y": 222,
                     "ioValues": []
                 }
             ],
